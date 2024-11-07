@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giacomo\\OneDrive\\Documenti\\GitHub\\Project\\StaffLogger\\StaffLogger.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giacomo\\OneDrive\\Documenti\\GitHub\\Project\\StaffLogger\\StaffLogger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giacomo\\OneDrive\\Documenti\\GitHub\\Project\\StaffLogger\\StaffLogger.csproj",
+        "projectName": "StaffLogger",
+        "projectPath": "C:\\Users\\Giacomo\\OneDrive\\Documenti\\GitHub\\Project\\StaffLogger\\StaffLogger.csproj",
+        "packagesPath": "C:\\Users\\Giacomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giacomo\\OneDrive\\Documenti\\GitHub\\Project\\StaffLogger\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Giacomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "ExMod.Exiled": {
+              "target": "Package",
+              "version": "[8.13.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
