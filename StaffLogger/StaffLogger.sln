@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffLogger", "StaffLogger.csproj", "{FBA31198-0B10-4B23-AEE5-4D8F0D9F734B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA31198-0B10-4B23-AEE5-4D8F0D9F734B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA31198-0B10-4B23-AEE5-4D8F0D9F734B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA31198-0B10-4B23-AEE5-4D8F0D9F734B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA31198-0B10-4B23-AEE5-4D8F0D9F734B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF7A7E5-A4FC-4A55-B1F3-A7BAB829D1B7}
+	EndGlobalSection
+EndGlobal
