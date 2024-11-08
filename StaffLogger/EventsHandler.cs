@@ -76,12 +76,14 @@ namespace StaffLogger
                 {
                     // Optionally log failure
                     Log.Warn($"Failed to send data: {response.StatusCode}");
+                    IsLeaving = false;
                 }
             }
             catch (Exception ex)
             {
                 // Log any exceptions
                 Log.Error($"Exception occurred: {ex.Message}");
+                IsLeaving = false;
             }
         }
     }
